@@ -1,0 +1,181 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Modeling", "0 - Modeling", "{FB05E400-0E01-48BF-9047-C8C0E6284FD4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{A90F073A-E734-4F07-AF26-9781E16FBCCD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - AppServer", "2 - AppServer", "{1C88B658-8635-4EFC-8107-D5CE605AC6EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infrastructure", "3 - Infrastructure", "{AB5AA87F-C638-47B3-B37E-3C598218079B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.0 - Crosscutting", "3.0 - Crosscutting", "{83F21793-5190-47C8-9F83-A53CC61ABF53}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.1 - DataAccess", "3.1 - DataAccess", "{FB8D0800-C0E5-4CDF-9606-A99E2BB42C11}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.1 - Application", "2.1 - Application", "{9DC15997-0BB8-42F8-8E97-15D82FCFC12A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.2 - Domain", "2.2 - Domain", "{300A5C33-B4BE-4593-9C9C-26FCD07FC0C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.0 - WebServices", "2.0 - WebServices", "{A39D6895-23E7-4D82-9A69-F8A38F3225F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OriginArqut.Domain", "OriginArqut.Domain\OriginArqut.Domain.csproj", "{7A543A93-B790-45B4-B587-1F657FE6D77A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OriginArqut.DataAccess", "OriginArqut.DataAccess\OriginArqut.DataAccess.csproj", "{0B0EC3A6-AB07-402B-9555-9AF3945C22B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OriginArqut.Crosscutting", "OriginArqut.Crosscutting\OriginArqut.Crosscutting.csproj", "{E08C05F2-99D0-41AD-8AEA-C1E45E5D4E5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OriginArqut.Application.Services", "OriginArqut.Application.Services\OriginArqut.Application.Services.csproj", "{13737D56-A640-4424-BC2E-6DF9C34E2F5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OriginArqut.Application.Adapters", "OriginArqut.Application.Adapters\OriginArqut.Application.Adapters.csproj", "{A1CC70F7-4157-4FF9-8447-654C483280EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OriginArqut.WebServices.Identity", "OriginArqut.WebServices.Identity\OriginArqut.WebServices.Identity.csproj", "{866520FE-8CD4-4B82-9A70-A47A2A965D41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OriginArqut.WebServices.Api", "OriginArqut.WebServices.Api\OriginArqut.WebServices.Api.csproj", "{E60ECDAE-B2EC-43C1-999E-5B2A6A035B54}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{CAA367C0-0F53-476B-A90D-FE33FB07AF69}"
+	ProjectSection(SolutionItems) = preProject
+		Librerias y versiones.txt = Librerias y versiones.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{228326CC-A53F-4A12-9CA6-91DEE4A6D45F}"
+	ProjectSection(SolutionItems) = preProject
+		Libs\EntityFramework.dll = Libs\EntityFramework.dll
+		Libs\EntityFramework.SqlServer.dll = Libs\EntityFramework.SqlServer.dll
+		Libs\Microsoft.Practices.Unity.Configuration.dll = Libs\Microsoft.Practices.Unity.Configuration.dll
+		Libs\Microsoft.Practices.Unity.dll = Libs\Microsoft.Practices.Unity.dll
+		Libs\Microsoft.Practices.Unity.RegistrationByConvention.dll = Libs\Microsoft.Practices.Unity.RegistrationByConvention.dll
+		Libs\MySql.Data.dll = Libs\MySql.Data.dll
+		Libs\MySql.Data.Entity.EF6.dll = Libs\MySql.Data.Entity.EF6.dll
+		Libs\Oracle.ManagedDataAccess.dll = Libs\Oracle.ManagedDataAccess.dll
+		Libs\Oracle.ManagedDataAccess.EntityFramework.dll = Libs\Oracle.ManagedDataAccess.EntityFramework.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OriginArqut.Crosscutting.IoC", "OriginArqut.Crosscutting.IoC\OriginArqut.Crosscutting.IoC.csproj", "{55EB253E-C71D-4D18-A994-CD7396754DFB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.0 - TestClient", "1.0 - TestClient", "{2236A0E6-1AEE-4FBA-ACC1-B071F32B4010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClient.Console", "TestClient.Console\TestClient.Console.csproj", "{F347952C-9EB2-48F5-BA66-79C707209E07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OriginArqut.Crosscutting.IoC.Types", "OriginArqut.Crosscutting.IoC.Types\OriginArqut.Crosscutting.IoC.Types.csproj", "{97CA405F-27F2-4EFB-8123-C55FDC5D4EE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A543A93-B790-45B4-B587-1F657FE6D77A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A543A93-B790-45B4-B587-1F657FE6D77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A543A93-B790-45B4-B587-1F657FE6D77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A543A93-B790-45B4-B587-1F657FE6D77A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B0EC3A6-AB07-402B-9555-9AF3945C22B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B0EC3A6-AB07-402B-9555-9AF3945C22B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B0EC3A6-AB07-402B-9555-9AF3945C22B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B0EC3A6-AB07-402B-9555-9AF3945C22B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E08C05F2-99D0-41AD-8AEA-C1E45E5D4E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E08C05F2-99D0-41AD-8AEA-C1E45E5D4E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E08C05F2-99D0-41AD-8AEA-C1E45E5D4E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E08C05F2-99D0-41AD-8AEA-C1E45E5D4E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13737D56-A640-4424-BC2E-6DF9C34E2F5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13737D56-A640-4424-BC2E-6DF9C34E2F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13737D56-A640-4424-BC2E-6DF9C34E2F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13737D56-A640-4424-BC2E-6DF9C34E2F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1CC70F7-4157-4FF9-8447-654C483280EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CC70F7-4157-4FF9-8447-654C483280EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CC70F7-4157-4FF9-8447-654C483280EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CC70F7-4157-4FF9-8447-654C483280EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{866520FE-8CD4-4B82-9A70-A47A2A965D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{866520FE-8CD4-4B82-9A70-A47A2A965D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{866520FE-8CD4-4B82-9A70-A47A2A965D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{866520FE-8CD4-4B82-9A70-A47A2A965D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E60ECDAE-B2EC-43C1-999E-5B2A6A035B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60ECDAE-B2EC-43C1-999E-5B2A6A035B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60ECDAE-B2EC-43C1-999E-5B2A6A035B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60ECDAE-B2EC-43C1-999E-5B2A6A035B54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55EB253E-C71D-4D18-A994-CD7396754DFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EB253E-C71D-4D18-A994-CD7396754DFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EB253E-C71D-4D18-A994-CD7396754DFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EB253E-C71D-4D18-A994-CD7396754DFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F347952C-9EB2-48F5-BA66-79C707209E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F347952C-9EB2-48F5-BA66-79C707209E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F347952C-9EB2-48F5-BA66-79C707209E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F347952C-9EB2-48F5-BA66-79C707209E07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97CA405F-27F2-4EFB-8123-C55FDC5D4EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97CA405F-27F2-4EFB-8123-C55FDC5D4EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97CA405F-27F2-4EFB-8123-C55FDC5D4EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97CA405F-27F2-4EFB-8123-C55FDC5D4EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{83F21793-5190-47C8-9F83-A53CC61ABF53} = {AB5AA87F-C638-47B3-B37E-3C598218079B}
+		{FB8D0800-C0E5-4CDF-9606-A99E2BB42C11} = {AB5AA87F-C638-47B3-B37E-3C598218079B}
+		{9DC15997-0BB8-42F8-8E97-15D82FCFC12A} = {1C88B658-8635-4EFC-8107-D5CE605AC6EC}
+		{300A5C33-B4BE-4593-9C9C-26FCD07FC0C2} = {1C88B658-8635-4EFC-8107-D5CE605AC6EC}
+		{A39D6895-23E7-4D82-9A69-F8A38F3225F6} = {1C88B658-8635-4EFC-8107-D5CE605AC6EC}
+		{7A543A93-B790-45B4-B587-1F657FE6D77A} = {300A5C33-B4BE-4593-9C9C-26FCD07FC0C2}
+		{0B0EC3A6-AB07-402B-9555-9AF3945C22B9} = {FB8D0800-C0E5-4CDF-9606-A99E2BB42C11}
+		{E08C05F2-99D0-41AD-8AEA-C1E45E5D4E5A} = {83F21793-5190-47C8-9F83-A53CC61ABF53}
+		{13737D56-A640-4424-BC2E-6DF9C34E2F5F} = {9DC15997-0BB8-42F8-8E97-15D82FCFC12A}
+		{A1CC70F7-4157-4FF9-8447-654C483280EC} = {9DC15997-0BB8-42F8-8E97-15D82FCFC12A}
+		{866520FE-8CD4-4B82-9A70-A47A2A965D41} = {A39D6895-23E7-4D82-9A69-F8A38F3225F6}
+		{E60ECDAE-B2EC-43C1-999E-5B2A6A035B54} = {A39D6895-23E7-4D82-9A69-F8A38F3225F6}
+		{55EB253E-C71D-4D18-A994-CD7396754DFB} = {83F21793-5190-47C8-9F83-A53CC61ABF53}
+		{2236A0E6-1AEE-4FBA-ACC1-B071F32B4010} = {A90F073A-E734-4F07-AF26-9781E16FBCCD}
+		{F347952C-9EB2-48F5-BA66-79C707209E07} = {2236A0E6-1AEE-4FBA-ACC1-B071F32B4010}
+		{97CA405F-27F2-4EFB-8123-C55FDC5D4EE8} = {83F21793-5190-47C8-9F83-A53CC61ABF53}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4964BD7C-1A1D-49A1-ABF4-385175D5379C}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 11
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://pillar-of-autumn.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = OriginArqut.Domain\\OriginArqut.Domain.csproj
+		SccProjectTopLevelParentUniqueName1 = OriginArqut.sln
+		SccProjectName1 = OriginArqut.Domain
+		SccLocalPath1 = OriginArqut.Domain
+		SccProjectUniqueName2 = OriginArqut.DataAccess\\OriginArqut.DataAccess.csproj
+		SccProjectTopLevelParentUniqueName2 = OriginArqut.sln
+		SccProjectName2 = OriginArqut.DataAccess
+		SccLocalPath2 = OriginArqut.DataAccess
+		SccProjectUniqueName3 = OriginArqut.Crosscutting\\OriginArqut.Crosscutting.csproj
+		SccProjectTopLevelParentUniqueName3 = OriginArqut.sln
+		SccProjectName3 = OriginArqut.Crosscutting
+		SccLocalPath3 = OriginArqut.Crosscutting
+		SccProjectUniqueName4 = OriginArqut.Application.Services\\OriginArqut.Application.Services.csproj
+		SccProjectTopLevelParentUniqueName4 = OriginArqut.sln
+		SccProjectName4 = OriginArqut.Application.Services
+		SccLocalPath4 = OriginArqut.Application.Services
+		SccProjectUniqueName5 = OriginArqut.Application.Adapters\\OriginArqut.Application.Adapters.csproj
+		SccProjectTopLevelParentUniqueName5 = OriginArqut.sln
+		SccProjectName5 = OriginArqut.Application.Adapters
+		SccLocalPath5 = OriginArqut.Application.Adapters
+		SccProjectUniqueName6 = OriginArqut.WebServices.Identity\\OriginArqut.WebServices.Identity.csproj
+		SccProjectTopLevelParentUniqueName6 = OriginArqut.sln
+		SccProjectName6 = OriginArqut.WebServices.Identity
+		SccLocalPath6 = OriginArqut.WebServices.Identity
+		SccProjectUniqueName7 = OriginArqut.WebServices.Api\\OriginArqut.WebServices.Api.csproj
+		SccProjectTopLevelParentUniqueName7 = OriginArqut.sln
+		SccProjectName7 = OriginArqut.WebServices.Api
+		SccLocalPath7 = OriginArqut.WebServices.Api
+		SccProjectUniqueName8 = OriginArqut.Crosscutting.IoC\\OriginArqut.Crosscutting.IoC.csproj
+		SccProjectTopLevelParentUniqueName8 = OriginArqut.sln
+		SccProjectName8 = OriginArqut.Crosscutting.IoC
+		SccLocalPath8 = OriginArqut.Crosscutting.IoC
+		SccProjectUniqueName9 = TestClient.Console\\TestClient.Console.csproj
+		SccProjectTopLevelParentUniqueName9 = OriginArqut.sln
+		SccProjectName9 = TestClient.Console
+		SccLocalPath9 = TestClient.Console
+		SccProjectUniqueName10 = OriginArqut.Crosscutting.IoC.Types\\OriginArqut.Crosscutting.IoC.Types.csproj
+		SccProjectTopLevelParentUniqueName10 = OriginArqut.sln
+		SccProjectName10 = OriginArqut.Crosscutting.IoC.Types
+		SccLocalPath10 = OriginArqut.Crosscutting.IoC.Types
+	EndGlobalSection
+EndGlobal

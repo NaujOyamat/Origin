@@ -1,0 +1,6 @@
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting\bin\Debug\OriginArqut.Crosscutting.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting\bin\Debug\OriginArqut.Crosscutting.pdb
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting\obj\Debug\OriginArqut.Crosscutting.csprojResolveAssemblyReference.cache
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting\obj\Debug\OriginArqut.Crosscutting.csproj.CoreCompileInputs.cache
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting\obj\Debug\OriginArqut.Crosscutting.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting\obj\Debug\OriginArqut.Crosscutting.pdb

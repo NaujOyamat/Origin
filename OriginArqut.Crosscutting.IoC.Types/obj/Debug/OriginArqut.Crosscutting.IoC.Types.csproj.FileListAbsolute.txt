@@ -1,0 +1,15 @@
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC.Types\bin\Debug\OriginArqut.Crosscutting.IoC.Types.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC.Types\bin\Debug\OriginArqut.Crosscutting.IoC.Types.pdb
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC.Types\bin\Debug\EntityFramework.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC.Types\bin\Debug\OriginArqut.Crosscutting.IoC.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC.Types\bin\Debug\OriginArqut.DataAccess.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC.Types\bin\Debug\OriginArqut.Domain.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC.Types\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC.Types\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC.Types\bin\Debug\OriginArqut.Crosscutting.IoC.pdb
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC.Types\bin\Debug\OriginArqut.DataAccess.pdb
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC.Types\bin\Debug\OriginArqut.Domain.pdb
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC.Types\obj\Debug\OriginArqut.Crosscutting.IoC.Types.csprojResolveAssemblyReference.cache
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC.Types\obj\Debug\OriginArqut.Crosscutting.IoC.Types.csproj.CoreCompileInputs.cache
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC.Types\obj\Debug\OriginArqut.Crosscutting.IoC.Types.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC.Types\obj\Debug\OriginArqut.Crosscutting.IoC.Types.pdb

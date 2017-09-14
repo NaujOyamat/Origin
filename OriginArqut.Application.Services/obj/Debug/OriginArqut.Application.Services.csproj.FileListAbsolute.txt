@@ -1,0 +1,6 @@
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Application.Services\bin\Debug\OriginArqut.Application.Services.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Application.Services\bin\Debug\OriginArqut.Application.Services.pdb
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Application.Services\obj\Debug\OriginArqut.Application.Services.csprojResolveAssemblyReference.cache
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Application.Services\obj\Debug\OriginArqut.Application.Services.csproj.CoreCompileInputs.cache
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Application.Services\obj\Debug\OriginArqut.Application.Services.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Application.Services\obj\Debug\OriginArqut.Application.Services.pdb

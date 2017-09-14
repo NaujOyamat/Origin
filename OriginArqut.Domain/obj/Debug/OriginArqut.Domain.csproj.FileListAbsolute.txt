@@ -1,0 +1,6 @@
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Domain\bin\Debug\OriginArqut.Domain.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Domain\bin\Debug\OriginArqut.Domain.pdb
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Domain\obj\Debug\OriginArqut.Domain.csprojResolveAssemblyReference.cache
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Domain\obj\Debug\OriginArqut.Domain.csproj.CoreCompileInputs.cache
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Domain\obj\Debug\OriginArqut.Domain.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Domain\obj\Debug\OriginArqut.Domain.pdb

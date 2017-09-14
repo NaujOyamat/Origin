@@ -1,0 +1,9 @@
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC\bin\Debug\OriginArqut.Crosscutting.IoC.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC\bin\Debug\OriginArqut.Crosscutting.IoC.pdb
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC\obj\Debug\OriginArqut.Crosscutting.IoC.csprojResolveAssemblyReference.cache
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC\obj\Debug\OriginArqut.Crosscutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC\obj\Debug\OriginArqut.Crosscutting.IoC.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Crosscutting.IoC\obj\Debug\OriginArqut.Crosscutting.IoC.pdb

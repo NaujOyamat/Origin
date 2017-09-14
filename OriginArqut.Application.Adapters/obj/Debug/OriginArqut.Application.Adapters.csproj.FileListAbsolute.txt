@@ -1,0 +1,10 @@
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Application.Adapters\bin\Debug\OriginArqut.Application.Adapters.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Application.Adapters\bin\Debug\OriginArqut.Application.Adapters.pdb
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Application.Adapters\bin\Debug\OriginArqut.Domain.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Application.Adapters\bin\Debug\OriginArqut.Domain.pdb
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Application.Adapters\obj\Debug\OriginArqut.Application.Adapters.csprojResolveAssemblyReference.cache
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Application.Adapters\obj\Debug\OriginArqut.Application.Adapters.csproj.CoreCompileInputs.cache
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Application.Adapters\obj\Debug\OriginArqut.Application.Adapters.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Application.Adapters\obj\Debug\OriginArqut.Application.Adapters.pdb
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Application.Adapters\bin\Debug\OriginArqut.Crosscutting.dll
+C:\Users\juant\Documents\Personal\Origin\OriginArqut\OriginArqut.Application.Adapters\bin\Debug\OriginArqut.Crosscutting.pdb
